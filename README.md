@@ -9,8 +9,6 @@ beginner developer
 * 🌍  I'm based in Hamburg
 * 🧠  I'm learning react, kotlin
 
-<a href="https://www.twitch.tv/junk1d" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/junk1d" /></a>
 
 ### Skills
 
