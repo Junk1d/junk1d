@@ -5,7 +5,7 @@ beginner developer
 ------------------
 
 * 🌍  I'm based in Hamburg
-* 🧠  I'm learning react
+* 🧠  I'm learning react, kotlin
 
 <a href="https://www.twitch.tv/junk1d" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/junk1d?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
