@@ -6,8 +6,8 @@ beginner developer
 
 “Programmer: A machine that turns coffee into code.”
 
-* 🌍  I'm based in Hamburg
-* 🧠  I'm learning react, kotlin
+* 🌍  I'm based in Hamburg (most beautiful city in the world)
+* 🧠  I'm learning react, typescript, kotlin
 
 
 ### Skills
